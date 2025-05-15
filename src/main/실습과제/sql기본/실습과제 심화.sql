@@ -190,3 +190,4 @@ SELECT * FROM departments;
 -- 관리자 테이블에서 현재 재직자만 보기
 SELECT * FROM dept_manager WHERE to_date = '9999-01-01';
 SELECT * FROM dept_manager;
+
