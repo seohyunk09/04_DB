@@ -2,6 +2,9 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/chapter06.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/실습과제/sql기본/07_SQL_고급.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/실습과제/sql기본/20250515기본.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/실습과제/sql기본/20250515심화.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/실습과제/sql기본/sqlDB.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/실습과제/sql기본/실습과제 심화.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/실습과제/sql기본/실습과제.sql" dialect="MySQL" />
